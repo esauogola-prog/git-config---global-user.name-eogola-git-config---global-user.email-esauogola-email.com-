@@ -1,1 +1,1 @@
-# git-config---global-user.name-eogola-git-config---global-user.email-esauogola-email.com-
+# git-config---global-user.name-eogola
